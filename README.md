@@ -1,12 +1,10 @@
 # CodePulse
 
-Track your practice. Measure your progress. Know your readiness.
+> Track your practice. Measure your progress. Know your readiness.
 
-CodePulse is a DSA practice analytics platform that allows users
-to connect their coding-platform profiles and understand their
-practice consistency, topic strengths, weaknesses, and readiness.
+CodePulse is a DSA practice analytics platform that connects coding-platform profiles and transforms practice history into actionable insights.
 
-## Platforms
+## Supported Platforms
 
 - LeetCode
 - Codeforces
@@ -18,7 +16,7 @@ practice consistency, topic strengths, weaknesses, and readiness.
 - Practice heatmap
 - Difficulty analysis
 - Topic analysis
-- DSA readiness score
+- DSA practice readiness score
 - Personalized practice recommendations
 
 ## Tech Stack
@@ -30,7 +28,7 @@ practice consistency, topic strengths, weaknesses, and readiness.
 
 ### Backend
 - Node.js
-- Express
+- Express.js
 - TypeScript
 
 ### Database
@@ -39,9 +37,15 @@ practice consistency, topic strengths, weaknesses, and readiness.
 
 ## Team
 
-- Satyam — Backend, Database, Analytics & Project Lead
-- Rohit — Frontend, UI & API Integration
+| Member | Responsibility |
+|---|---|
+| Satyam Raj | Backend, Database, Analytics & Project Lead |
+| Rohit | Frontend, UI & API Integration |
 
-## Status
+## Project Status
 
 🚧 Under Development
+
+## License
+
+MIT
